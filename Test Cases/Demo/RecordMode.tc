@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>In this test case we will try how to build a test case using 'Record' mode. &#xd;
+this mode is not using script and coding.</description>
+   <name>RecordMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa8b601-b202-4fa5-a26a-6d09ad7e4a62</testCaseGuid>
+</TestCaseEntity>

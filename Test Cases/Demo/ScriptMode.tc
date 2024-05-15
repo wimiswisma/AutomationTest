@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case purposed to try the script mode on katalon</description>
+   <name>ScriptMode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc9ff871-265c-4718-975d-67d81b2ca90d</testCaseGuid>
+</TestCaseEntity>
